@@ -1,0 +1,156 @@
+🌐 Title Slide
+
+MINIGDRIVE
+A Full-Stack Cloud Storage Platform
+
+👨‍💻 Built by:
+Aswin Raj A
+Mohamed Suhail S
+
+🔐 Secure • Scalable • Smart
+
+
+---
+
+📝 Abstract (Improved Wording + Layout)
+
+What is MiniGDrive?
+A lightweight, responsive cloud-based file storage and management application.
+
+
+---
+
+🚀 Key Features
+
+🔐 Secure Authentication
+
+User registration and login
+
+Password hashing and session management
+
+
+📂 File Management
+
+Upload, download, trash/restore, bulk actions
+
+Responsive dashboard for both desktop and mobile
+
+
+🗣️ Voice Command Support
+
+Built using Web Speech API
+
+Perform actions hands-free
+
+
+🌐 Multilingual Support
+
+Supports English, Tamil, and Hindi
+
+
+
+
+---
+
+🔧 Tech Stack
+
+Frontend: HTML, CSS, JS (Responsive Design)
+
+Backend: Flask (Python), SQLite
+
+DevOps: Docker, GitHub Actions, AWS EC2
+
+Security: HTTPS via CloudFront, secure file handling
+
+
+
+---
+
+📊 DevOps & Deployment
+
+CI/CD Pipeline
+
+Automated deployments with GitHub Actions
+
+
+Hosting
+
+Deployed on AWS EC2
+
+
+Security
+
+CloudFront CDN
+
+HTTPS encryption
+
+
+
+
+---
+
+📸 Screenshots Section (Add Captions)
+
+Login Page
+
+Dashboard Interface
+
+Upload with Voice Command
+
+Trash and Restore Interface
+
+Mobile View
+
+Storage Visualization (Graph)
+
+
+(Use clean layout, 2 screenshots per slide if needed)
+
+
+---
+
+📌 Highlights
+
+✅ Full-stack project
+✅ Voice command integration
+✅ Dockerized and cloud-deployable
+✅ Responsive design
+✅ Multilingual UI
+✅ Developer and user friendly
+
+
+---
+
+💡 What Makes It Special?
+
+Combines core web development with DevOps practices
+
+Emphasizes accessibility with voice and language support
+
+Real-world hosting on AWS, not just a local project
+
+
+
+---
+
+🧠 Learning Outcomes
+
+Flask + SQLite Integration
+
+Secure web development practices
+
+Cloud deployment and CI/CD pipelines
+
+Real-world problem solving in file hosting
+
+
+
+---
+
+📣 Closing Slide
+
+Thank You!
+Any Questions?
+
+💻 GitHub Repository (if available)
+📧 Contact Info (optional)
